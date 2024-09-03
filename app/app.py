@@ -26,4 +26,3 @@ class Main:
 
 if __name__ == "__main__":
     load_dotenv()
-    prompt = "Escribe una historia sobre inteligencia artificial."
